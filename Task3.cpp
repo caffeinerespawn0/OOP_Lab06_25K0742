@@ -5,7 +5,7 @@ class Person{
     public: 
     string name; 
     int age; 
-    //comstructor: 
+    //constructor: 
     Person(string n="",int a=0):name(n),age(a){}
     //func
     void setPerson(string s,int a){
